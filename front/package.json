@@ -49,6 +49,6 @@
     "style-loader": "^1.0.0",
     "url-loader": "^2.2.0",
     "webpack": "^4.29.3",
-    "webpack-cli": "^3.2.3"
+    "webpack-cli": "^3.3.12"
   }
 }
